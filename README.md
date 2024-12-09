@@ -1,3 +1,6 @@
+# ⚠️ATENÇÃO⚠️
+Quando for descompactar, escolha a opção EXTRAIR AQUI, para que não haja erros.
+
 # Projeto-Front-End
 Projeto Front-End Fintech (FIAP)
 
