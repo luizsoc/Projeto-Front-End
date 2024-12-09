@@ -1,5 +1,6 @@
 # ⚠️ATENÇÃO⚠️
 Quando for descompactar, escolha a opção EXTRAIR AQUI, para que não haja erros.
+Abra o arquivo pelo Live Server, dentro do VSCode.
 
 # Projeto-Front-End
 Projeto Front-End Fintech (FIAP)
